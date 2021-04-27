@@ -1,3 +1,30 @@
+<a name="ancora"></a>
+# Sistema de eventos
+- [Sobre](#sobre)
+- [Ferramentas](#ferramentas)
+- [Imagens](#imagens)
+- [Créditos](#creditos)
+
+<a id="sobresistema"></a>
+## Sobre
+> O sistema de eventos consiste em um CRUD de eventos, onde os usuários interagem entre si, mantendo seus próprios eventos e podendo também participar de eventos alheios caso o evento seja criado de forma pública. O projeto também fornece um sistema de autenticação de usuários, que permite muito mais segurança e integridade ao ecosistema.
+
+<a id="ferramentas"></a>
+## Ferramentas
+> O sistema de eventos foi criado utilizando o framework [Laravel 8](#Laravel), juntamente com o Blade para construção das views, também foi utilizado o jetstream, para a autenticação dos usuários.
+ 
+ 
+<a id="imagens"></a>
+## Imagens
+![showEvento](https://user-images.githubusercontent.com/31408356/116246563-1a871680-a738-11eb-8f6c-b8b14ce9dc1c.png)
+![eventocriado](https://user-images.githubusercontent.com/31408356/116246572-1bb84380-a738-11eb-83ae-5c6bbae0de38.gif)
+![HomeNãoLogado](https://user-images.githubusercontent.com/31408356/116246578-1c50da00-a738-11eb-813e-c7e4adf4818b.png)
+
+<a id="creditos"></a>
+## Créditos
+> Este projeto teve como base o sistema desenvolvido pelo professor @matheusbattisti, no curso de Laravel no canal "Hora de codar" no youtube.
+
+<a id="Laravel"></a>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
